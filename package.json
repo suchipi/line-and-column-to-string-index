@@ -1,6 +1,6 @@
 {
   "name": "line-and-column-to-string-index",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "convert line and column to string index",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
