@@ -1,0 +1,21 @@
+{
+  "name": "line-and-column-to-string-index",
+  "version": "0.1.0",
+  "description": "convert line and column to string index",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Lily Skye <me@suchipi.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchipi/line-and-column-to-string-index.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  },
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "test": "vitest"
+  }
+}
